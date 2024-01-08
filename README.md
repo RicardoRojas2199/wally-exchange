@@ -51,23 +51,12 @@ $ yarn run start:prod
 # unit tests
 $ yarn run test
 
-# e2e tests
-$ yarn run test:e2e
 
 # test coverage
 $ yarn run test:cov
 ```
 
-## Support
+## Postman
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+Postman link with the endpoints usage:
+https://www.postman.com/joint-operations-candidate-84186324/workspace/exchange/collection/26691281-55bfaf70-01f5-4eca-b176-959c8f0bc25b?action=share&creator=17398590
