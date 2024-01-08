@@ -56,7 +56,11 @@ $ yarn run test
 $ yarn run test:cov
 ```
 
+## Demo
+Hosted in AWS EC2
+http://54.163.209.100:3000/
+
 ## Postman
 
 Postman link with the endpoints usage:
-https://www.postman.com/joint-operations-candidate-84186324/workspace/exchange/collection/26691281-55bfaf70-01f5-4eca-b176-959c8f0bc25b?action=share&creator=17398590
+[https://www.postman.com/joint-operations-candidate-84186324/workspace/exchange/collection/26691281-55bfaf70-01f5-4eca-b176-959c8f0bc25b?action=share&creator=17398590](https://elements.getpostman.com/redirect?entityId=17398590-1e84af22-a8fe-4759-8440-43cf4b2aa3b9&entityType=collection)https://elements.getpostman.com/redirect?entityId=17398590-1e84af22-a8fe-4759-8440-43cf4b2aa3b9&entityType=collection
